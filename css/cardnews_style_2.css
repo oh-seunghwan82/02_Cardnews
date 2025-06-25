@@ -89,7 +89,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(223, 168, 255, 0.753);
+    background-color: rgba(244, 226, 255, 0.74);
 }
 
 .slide {
@@ -112,7 +112,7 @@ html {
     justify-content: center;
     align-items: center;
     border-radius: 40px;
-    filter: drop-shadow(10px 10px 10px rgba(14, 14, 14, 0.8));
+    filter: drop-shadow(7px 7px 4px rgba(14, 14, 14, 0.5));
 }
 
 .swiper-slide img {
