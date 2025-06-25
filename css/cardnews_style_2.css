@@ -89,7 +89,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(244, 226, 255, 0.74);
+    background-color: #fff;
 }
 
 .slide {
